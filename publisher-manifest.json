@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2caab7def7fed437ad123ea9",
+  "owner": "qcmxgvja",
+  "repo": "page-31fdccf6c72ac75768698209",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "31fdccf6c72ac75768698209",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d8607053ded6d146c2c94ecfe71a8bb7d17ec8ef90068e299e8f5434ff571499",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 提供安全稳定的VPN加速服务，帮助您畅享全球网络内容。选择适合您的套餐，立即体验高速节点。",
+          "AI_DESCRIPTION": "365VPN 提供安全稳定的VPN加速服务，帮助您畅享全球网络内容。选择适合您的套餐，立即体验高速节点。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --white: #f9f6f0;\n            --coral: #ff6b6b;\n            --dark: #2c3e50;\n            --gray: #666;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: 'Segoe UI', system-ui, sans-serif;\n            line-height: 1.7;\n            color: var(--dark);\n            background-color: var(--white);\n            margin: 0;\n            padding: 0;\n        }\n        header {\n            background: white;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 2rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: 700;\n            color: var(--coral);\n            text-decoration: none;\n        }\n        .nav-links {\n            display: flex;\n            gap: 2.5rem;\n            list-style: none;\n        }\n        .nav-links a {\n            text-decoration: none;\n            color: var(--dark);\n            font-weight: 500;\n            transition: color 0.3s;\n        }\n        .nav-links a:hover {\n            color: var(--coral);\n        }\n        .hero {\n            background: linear-gradient(to right, #fff, #f9f6f0);\n            padding: 5rem 2rem;\n            text-align: center;\n            border-bottom: 1px solid #eee;\n        }\n        .hero h1 {\n            font-size: 3.2rem;\n            margin: 0 0 1rem;\n            color: var(--dark);\n        }\n        .hero p {\n            font-size: 1.3rem;\n            max-width: 700px;\n            margin: 0 auto 2rem;\n            color: var(--gray);\n        }\n        .hero button {\n            background: var(--coral);\n            color: white;\n            border: none;\n            padding: 1rem 2.5rem;\n            font-size: 1.1rem;\n            border-radius: 50px;\n            cursor: pointer;\n            transition: all 0.3s;\n        }\n        .hero button:hover {\n            background: #ff4d4d;\n            transform: translateY(-2px);\n        }\n        section {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 4rem 2rem;\n        }\n        h2 {\n            font-size: 2.2rem;\n            margin-bottom: 1.5rem;\n            color: var(--dark);\n        }\n        .intro-text {\n            font-size: 1.2rem;\n            max-width: 800px;\n            margin: 0 auto;\n            text-align: center;\n        }\n        .use-cases {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 2rem;\n        }\n        .use-cases li {\n            background: white;\n            padding: 2rem;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n            text-align: center;\n        }\n        .operation {\n            background: #fff;\n            padding: 3rem;\n            border-radius: 16px;\n            box-shadow: 0 5px 20px rgba(0,0,0,0.08);\n        }\n        .operation ol {\n            padding-left: 1.2rem;\n        }\n        .operation li {\n            margin-bottom: 1.5rem;\n            position: relative;\n        }\n        .operation li:before {\n            content: \"→\";\n            position: absolute;\n            left: -1.2rem;\n            color: var(--coral);\n        }\n        .plans-section {\n            background: #fff;\n        }\n        .clients-section {\n            background: linear-gradient(to right, #f9f6f0, #fff);\n        }\n        .faq {\n            background: #fff;\n        }\n        details {\n            margin-bottom: 1.5rem;\n            border: 1px solid #eee;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1.5rem 2rem;\n            font-weight: 600;\n            font-size: 1.15rem;\n            background: #f9f6f0;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary:hover {\n            background: #f0e8e0;\n        }\n        .answer {\n            padding: 1.5rem 2rem;\n            background: white;\n            border-top: 1px solid #eee;\n        }\n        .alternating {\n            display: flex;\n            gap: 3rem;\n            align-items: center;\n        }\n        .alternating.reverse {\n            flex-direction: row-reverse;\n        }\n        @media (max-width: 768px) {\n            .alternating, .alternating.reverse {\n                flex-direction: column;\n            }\n            h2 {\n                font-size: 1.8rem;\n            }\n            .hero h1 {\n                font-size: 2.8rem;\n            }\n        }\n        footer {\n            background: #2c3e50;\n            color: white;\n            padding: 3rem 2rem 2rem;\n            text-align: center;\n        }\n        .footer-content {\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <a href=\"#\" class=\"logo\">365<span>VPN</span></a>\n            <ul class=\"nav-links\">\n                <li><a href=\"#intro\">品牌简介</a></li>\n                <li><a href=\"#use-cases\">使用场景</a></li>\n                <li><a href=\"#operation\">操作指南</a></li>\n                <li><a href=\"#plans\">套餐对比</a></li>\n                <li><a href=\"#faq\">常见问题</a></li>\n            </ul>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>365VPN</h1>\n            <p>安全稳定的VPN加速器，让您畅享全球网络内容</p>\n            \n        </section>\n        <section id=\"intro\" class=\"alternating\">\n            <div>\n                <h2>品牌简介</h2>\n                <p class=\"intro-text\">365VPN 是一款专注于提供安全稳定VPN加速服务的品牌。我们通过先进的技术为用户带来流畅无阻的网络体验，助力您在任何场景下畅享互联网。</p>\n            </div>\n            <div>\n                <p>无论您是个人用户还是企业团队，都能找到合适的解决方案。从基础防护到企业级定制，365VPN 满足多样化需求。</p>\n            </div>\n        </section>\n        <section id=\"use-cases\" class=\"alternating reverse\">\n            <div>\n                <h2>使用场景</h2>\n                <ul class=\"use-cases\">\n                    <li>\n                        <h3>远程办公</h3>\n                        <p>保持稳定连接，避免因网络波动影响工作效率。</p>\n                    </li>\n                    <li>\n                        <h3>流媒体解锁</h3>\n                        <p>突破地域限制，畅享Netflix、Disney+ 等全球热门内容。</p>\n                    </li>\n                    <li>\n                        <h3>隐私保护</h3>\n                        <p>加密您的所有上网数据流量，确保在线安全。</p>\n                    </li>\n                    <li>\n                        <h3>全球旅行</h3>\n                        <p>轻松连接海外节点，享受本地化服务。</p>\n                    </li>\n                </ul>\n            </div>\n        </section>\n        <section id=\"operation\" class=\"alternating\">\n            <div>\n                <h2>操作指南</h2>\n                <div class=\"operation\">\n                    <ol>\n                        <li>选择适合您的套餐并完成订阅</li>\n                        <li>访问官方网站下载并安装客户端</li>\n                        <li>登录账号，连接理想的节点服务器</li>\n                        <li>开启智能路由，享受高速稳定体验</li>\n                    </ol>\n                </div>\n            </div>\n        </section>\n        <section id=\"plans\" class=\"plans-section\">\n            <h2>套餐对比</h2>\n            <p>根据您的需求选择最适合的套餐</p>\n            {{PLANS_HTML}}\n        </section>\n        <section class=\"clients-section\">\n            <h2>客户信赖</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        <section id=\"faq\" class=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>1. 365VPN 支持哪些设备？</summary>\n                <div class=\"answer\">365VPN 支持 Windows、Mac、Android、iOS 等主流操作系统设备。</div>\n            </details>\n            <details>\n                <summary>2. 什么是流量限制？</summary>\n                <div class=\"answer\">每款套餐有每月流量限额，超出后可能影响速度，但基础功能不受影响。</div>\n            </details>\n            <details>\n                <summary>3. 如何解锁流媒体？</summary>\n                <div class=\"answer\">旗舰版及以上套餐提供全节点原生流媒体解锁，无需额外配置。</div>\n            </details>\n            <details>\n                <summary>4. 支持多少台设备同时在线？</summary>\n                <div class=\"answer\">基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。</div>\n            </details>\n            <details>\n                <summary>5. 客服支持如何？</summary>\n                <div class=\"answer\">团队版提供7x24优先工单支持，专属客户经理服务，快速响应您的需求。</div>\n            </details>\n        </section>\n    </main>\n    <footer>\n        <div class=\"footer-content\">\n            <p>© 2024 365VPN 版权所有 | 所有权利保留</p>\n            <p>本页面为展示性质，仅供参考</p>\n        </div>\n    </footer>\n\n",
+          "hash": "ccb9b078144200f234eabf62ea929acdecb572eda449f861aac11f07a76c6f24",
+          "seo": {
+            "title": "365VPN - 专业VPN加速器 安全上网加速下载",
+            "keywords": "365VPN, VPN加速器, 客户端下载, 网络加速, VPN节点",
+            "description": "365VPN 提供安全稳定的VPN加速服务，帮助您畅享全球网络内容。选择适合您的套餐，立即体验高速节点。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hfsryhsm8.cn",
+    "host": "c.hfsryhsm8.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "hfsryhsm8.cn",
+      "url": "https://hfsryhsm8.cn/",
+      "label": "NaiKo",
+      "apex": "hfsryhsm8.cn",
+      "kind": null,
+      "identity": "hvkyfxhtd/page-61919dbbf4b571ea34c63e51"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4ace1b28e34e88310e370c1a930ad47b54660e8f28ff098fe892839c7e9cf50d",
+    "sitemap.xml": "e6982c8b657e9bc436971b80d948ca233278ec635b8fb91b63433b75178c6927",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1f7a400487f3249ab13ba2cc03aeb736ef9a320887c16da2415971b660881c0a",
+    "robots.txt": "ba36c7fd015effd752e8d1aabbd61c1b5e7604a0648aa11bd5bf67112fec6ffe",
+    "4961a5af3a24c2eda85c2abb8310e815.txt": "31d32fe0fee416518c50d0ddc5000bceab52fec12f8aba456b52a53bf73a823d"
+  },
+  "revision": "ec47605bd3034d4fcf8e5e0a5a1031859fac17f6467046bb851feae953781b98"
+}

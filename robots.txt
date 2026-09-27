@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.hfsryhsm8.cn/sitemap.xml
